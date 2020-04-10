@@ -40,4 +40,3 @@ def email_body_generator(path):
             
             yield file_name, email_body
             
-///
