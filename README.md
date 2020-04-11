@@ -1,3 +1,7 @@
+Name : Firoz kumar
+ROll no : 8
+section : K18KR
+
 # AI-Project-SPAM-CLASSIFIER
 SPAM CLASSIFIER: this project will have the festures which will help our project to classify whether the email is spam or Non-spam.  
 Pre-Processing of emails is purely besed on :::Naive Bayes classifier
